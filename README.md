@@ -1,2 +1,2 @@
-# LeetCode-Problems
-Solution to some of the coding problems in LeetCode(in java).
+# Coding-Problems
+Solution to some of the popular coding problems in Java.
